@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         IITC plugin: Portal markers of the same size
 // @namespace    https://github.com/IITC-CE/ingress-intel-total-conversion
+// @category     Layer
 // @version      2024-11-19
 // @description  Display portal markers at the same size
 // @author       suncj
