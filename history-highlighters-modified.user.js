@@ -3,8 +3,8 @@
 // @name           IITC plugin: History Highlighters (Modified)
 // @category       Highlighter
 // @version        2024-11-19
-// @updateURL      https://github.com/suncj98/raws/raw/refs/heads/main/history-highlighters-modified.user.js
-// @downloadURL    https://github.com/suncj98/raws/raw/refs/heads/main/history-highlighters-modified.user.js
+// @updateURL      https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
+// @downloadURL    https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
 // @description    Highlighters to make use of captured history data. Highlighters to hide all or only all captured portals, with or without ENL and RES portals.
 // @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
 // @match          https://intel.ingress.com/*
