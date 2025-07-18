@@ -8,6 +8,7 @@
 // @description    Highlighters to make use of captured history data. Highlighters to hide all or only all captured portals, with or without ENL and RES portals.
 // @namespace      https://github.com/IITC-CE/ingress-intel-total-conversion
 // @match          https://intel.ingress.com/*
+// @match          https://intel-x.ingress.com/*
 // @grant          none
 // ==/UserScript==
 
