@@ -3,9 +3,10 @@
 // @namespace    https://github.com/IITC-CE/ingress-intel-total-conversion
 // @version      2024-11-19
 // @description  Display portal markers at the same size
-// @author       You
-// @downloadURL    https://github.com/suncj98/raws/raw/refs/heads/main/portal-markers-same-size.user.js
-// @updateURL      https://github.com/suncj98/raws/raw/refs/heads/main/portal-markers-same-size.user.js
+// @author       suncj
+// @id           portalmarkerssamesize@suncj
+// @downloadURL  https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
+// @updateURL    https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
 // @match        https://intel.ingress.com/*
 // @grant        none
 // ==/UserScript==
