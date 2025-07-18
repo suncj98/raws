@@ -3,8 +3,8 @@
 // @name           History Highlighters (modified)
 // @category       Highlighter
 // @version        0.0.1.20210724.002500
-// @updateURL      https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
-// @downloadURL    https://raw.githubusercontent.com/suncj98/raws/main/portal-markers-same-size.user.js
+// @updateURL      https://raw.githubusercontent.com/suncj98/raws/main/history-highlighters-modified.user.js
+// @downloadURL    https://raw.githubusercontent.com/suncj98/raws/main/history-highlighters-modified.user.js
 // @description    [danielondiordna-0.0.1.20210724.002500] Highlighters to make use of captured history data. Highlighters to hide all or only all captured portals, with or without ENL and RES portals. Requires CORE subscription
 // @id             historyhighlightermodified@DanielOnDiordna
 // @namespace      https://softspot.nl/ingress/
